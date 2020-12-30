@@ -1,0 +1,34 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "powershell.codeFormatting.useCorrectCasing": true,
+    "powershell.codeFormatting.whitespaceBetweenParameters": true,
+    "files.defaultLanguage": "powershell",
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "extensions.autoUpdate": true,
+    "powershell.scriptAnalysis.enable": true,
+    "powershell.startAutomatically": true,
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "powershell.enableProfileLoading": true,
+    "powershell.developer.editorServicesLogLevel": "Verbose",
+    "powershell.codeFormatting.openBraceOnSameLine": false,
+    "powershell.developer.featureFlags": [
+        "PSReadLine"
+    ],
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "editor.mouseWheelZoom": true,
+    "editor.tabCompletion": "on",
+    "editor.suggestSelection": "first",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "window.zoomLevel": 0,
+    "terminal.integrated.rightClickBehavior": "default",
+    "window.title": "${activeEditorLong}",
+    "powershell.scriptAnalysis.settingsPath": "ScriptAnalyzerSettings.psd1",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.cursorStyle": "line-thin",
+    "terminal.integrated.rendererType": "dom",
+    "extensions.ignoreRecommendations": false
+}
