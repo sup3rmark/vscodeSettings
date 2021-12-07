@@ -4,6 +4,7 @@
     "powershell.codeFormatting.whitespaceBetweenParameters": true,
     "files.defaultLanguage": "powershell",
     "launch": {
+    
         "configurations": [],
         "compounds": []
     },
@@ -13,7 +14,6 @@
     "powershell.integratedConsole.focusConsoleOnExecute": false,
     "powershell.enableProfileLoading": true,
     "powershell.developer.editorServicesLogLevel": "Verbose",
-    "powershell.codeFormatting.openBraceOnSameLine": false,
     "powershell.developer.featureFlags": [
         "PSReadLine"
     ],
@@ -30,5 +30,13 @@
     "workbench.startupEditor": "newUntitledFile",
     "editor.cursorStyle": "line-thin",
     "terminal.integrated.rendererType": "dom",
-    "extensions.ignoreRecommendations": false
+    "extensions.ignoreRecommendations": false,
+    "git.ignoreMissingGitWarning": true,
+    "workbench.editor.wrapTabs": true,
+    "json.schemas": [
+
+    ],
+    "editor.fontLigatures": null,
+    "powershell.codeFormatting.autoCorrectAliases": true,
+    "editor.renderControlCharacters": true
 }
