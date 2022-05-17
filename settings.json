@@ -23,7 +23,6 @@
     "editor.tabCompletion": "on",
     "editor.suggestSelection": "first",
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
-    "window.zoomLevel": 0,
     "terminal.integrated.rightClickBehavior": "default",
     "window.title": "${activeEditorLong}",
     "powershell.scriptAnalysis.settingsPath": "ScriptAnalyzerSettings.psd1",
@@ -38,5 +37,6 @@
     ],
     "editor.fontLigatures": null,
     "powershell.codeFormatting.autoCorrectAliases": true,
-    "editor.renderControlCharacters": true
+    "editor.renderControlCharacters": true,
+    "html.format.wrapLineLength": 0
 }
